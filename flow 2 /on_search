@@ -1,0 +1,47 @@
+{
+  "sellerinvoice": {
+    "invoices": {
+      "InvoiceNum": null,
+      "InvoiceURL": null,
+      "SerialNum": null,
+      "NatureOfTransaction": null,
+      "OrderId": "230608-007-849357",
+      "VATNumber": null,
+      "TINNumber": null,
+      "CSTNumber": null,
+      "ServiceTaxNumber": null,
+      "PackID": "CC9ee1dd01",
+      "Transactions": [
+        {
+          "TransactionID": "124219078063551",
+          "ProductCode": "10007695",
+          "IMEISerialNum": null,
+          "ProDescription": null,
+          "ProSalePrice": null,
+          "TransactionDiscount": null,
+          "TransactionNetSellPrice": null,
+          "TransactionNetSellAmount": null,
+          "GST": {
+            "saccodeShipCharges": null,
+            "hsnTax": null,
+            "shippingChargesTaxes": null,
+            "giftingCharges": null,
+            "giftingChargesTaxes": null,
+            "SLAVEGSTIN": null,
+            "DestinationStateCode": null,
+            "HSNCode": null,
+            "SACCodeSchedulingCharges": null,
+            "SchedulingChargesTAXES": null,
+            "SACCodeShipCharges": null
+          }
+        }
+      ],
+      "TotalGrossAmount": null,
+      "TotalDiscount": null,
+      "TotalNetSP": null,
+      "TotalAmountPayable": null,
+      "TaxType": null,
+      "TaxValue": null
+    }
+  }
+}
